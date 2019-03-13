@@ -2,7 +2,7 @@
 
 Print my card.
 
-## Prequisites
+## Prerequisites
 
 You need to have `npx` installed.
 
