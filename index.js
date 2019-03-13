@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const boxen = require("boxen")
 const {stripIndent} = require("common-tags")
 const style = require('ansi-styles')
