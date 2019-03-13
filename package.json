@@ -1,0 +1,25 @@
+{
+  "name": "mwittig",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Marcus Wittig",
+  "keywords": [],
+  "description": "Just for fun",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mwittig/mwittig"
+  },
+  "dependencies": {
+    "ansi-styles": "^3.2.1",
+    "boxen": "^3.0.0",
+    "common-tags": "^1.8.0"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "main": "index.js",
+  "bin": {
+    "mwittig": "index.js",
+    "marcuswittig": "index.js"
+  }
+}
