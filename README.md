@@ -1,5 +1,5 @@
 ### Tach auch!
 
-![](dino.gif)
+![](d.gif)
 
 Print my card: npx mwittig
