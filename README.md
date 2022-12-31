@@ -1,17 +1,5 @@
-# mwittig
+### Tach auch!
 
-Print my card.
+![](dino.gif)
 
-## Prerequisites
-
-You need to have `npx` installed.
-
-``` 
-npm i -g npx
-```
-
-### Running
-
-```
-npx mwittig
-```
+Print my card: npx mwittig
